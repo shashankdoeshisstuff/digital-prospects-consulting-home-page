@@ -1,47 +1,57 @@
-Here is a **professional, clean, and recruiter-friendly README.md** specifically tailored for submitting this Next.js assignment.
+Here is a **clean, professional, recruiter-friendly README.md** tailored for your **Next.js assignment**, fully personalized with your details extracted from your resume () and including your **portfolio link, GitHub, and contact details**.
+
+You can **copy–paste directly into your repository**.
 
 ---
 
 # 📘 **README – Frontend Developer Assignment (Digital Prospects Consulting)**
 
-This project is a submission for the **Front-End Developer role** at **Digital Prospects Consulting**.
-The task was to reproduce the UI from the provided Figma design as closely as possible using modern frontend best practices.
+This repository contains my submission for the **Front-End Developer role** at **Digital Prospects Consulting**.
+The assignment was to replicate the provided Figma design with high attention to detail using modern frontend technologies.
+
+---
+
+## 🎨 **Figma Reference**
+
+Design replicated from the original Figma file:
+🔗 **[https://www.figma.com/design/irePUWX8hcuykwPtFIW9RM/Code-value?node-id=0-1&p=f&t=1zu6JL0PpPWb4NDQ-0](https://www.figma.com/design/irePUWX8hcuykwPtFIW9RM/Code-value?node-id=0-1&p=f&t=1zu6JL0PpPWb4NDQ-0)**
 
 ---
 
 ## 🚀 **Project Overview**
 
-This is a **Next.js** application built to replicate the following Figma design:
+This project is a **Next.js (App Router)** application built with a focus on:
 
-🔗 **Figma Link:**
-[https://www.figma.com/design/irePUWX8hcuykwPtFIW9RM/Code-value?node-id=0-1&p=f&t=1zu6JL0PpPWb4NDQ-0](https://www.figma.com/design/irePUWX8hcuykwPtFIW9RM/Code-value?node-id=0-1&p=f&t=1zu6JL0PpPWb4NDQ-0)
-
-The UI is implemented with pixel accuracy, responsive behavior, clean component structure, and reusable styling.
+* Pixel-perfect UI matching
+* Modern component architecture
+* Responsive design across all breakpoints
+* Clean, scalable, and maintainable codebase
+* Accessibility and best UX practices
 
 ---
 
-## 🛠️ **Tech Stack Used**
+## 🛠️ **Tech Stack**
 
-* **Next.js (App Router)** – Framework
-* **React** – Component-based UI
-* **Tailwind CSS** – Styling & responsiveness
-* **TypeScript** *(optional, include if you used it)*
+* **Next.js (App Router)**
+* **React**
+* **Tailwind CSS**
+* **TypeScript** (if used)
 * **Next Image Optimization**
+* **Shadcn UI / Radix UI (if applicable)**
+* **Reusable UI Components**
 * **Lucide Icons / Custom Icons**
-* **Reusable Components & Layouts**
 
 ---
 
-## 🎯 **Features Implemented**
+## 🎯 **Features**
 
-✔ Pixel-perfect conversion of Figma → React
-✔ Fully responsive across all breakpoints
-✔ Clean folder structure
-✔ Reusable components
-✔ Componentized sections for maintainability
-✔ Clean, scalable typography & spacing
-✔ Accessible HTML and ARIA-friendly components
-✔ Optimized Next.js `<Image />` for performance
+✔ Accurate reproduction of the Figma design
+✔ Fully responsive layout (mobile → tablet → desktop)
+✔ Component-driven structure
+✔ Semantic and accessible markup
+✔ Smooth typography & consistent spacing
+✔ Clean folder structure for easy scalability
+✔ Performance-optimized images and rendering
 
 ---
 
@@ -69,12 +79,12 @@ app/
 
 ---
 
-## 📦 **Installation & Running the Project**
+## 📦 **Installation & Setup**
 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/shashankdoeshisstuff/project-name.git
 cd project-name
 ```
 
@@ -84,51 +94,58 @@ cd project-name
 npm install
 ```
 
-### 3️⃣ Run the development server
+### 3️⃣ Run development server
 
 ```bash
 npm run dev
 ```
 
-### 4️⃣ Open the app in your browser
+### 4️⃣ View in browser
 
 [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🔍 **Notes**
+## 🔍 **Notes & Considerations**
 
-* The UI is matched as closely as possible to the Figma design.
-* All sections are responsive for mobile, tablet, and large screens.
-* Components are modular and follow best coding practices.
-* The design is recreated with semantic, clean, maintainable code.
+* Built following **modern frontend best practices**
+* UI & layout match the design as closely as possible
+* Fully responsive across all screen sizes
+* Clean component-driven architecture
+* Code is easy to extend, maintain, and refactor
 
 ---
 
 ## 📬 **Submission**
 
-This repository has been created as part of the **Front-End Developer Assignment** for:
+This project is submitted as part of the **Front-End Developer Assignment** for:
 
 **Digital Prospects Consulting**
-HR: *Chandni Rajbhar*
-
-If you need access or deployment, feel free to contact me.
+HR Contact: **Chandni Rajbhar**
 
 ---
 
 ## ✨ **Author**
 
-**Your Name**
+### **Shashank Maurya**
+
 Frontend Developer
-📧 your email
-🔗 Portfolio/GitHub links (optional)
+
+📧 **Email:** [shashank.maurya.pro@gmail.com](mailto:shashank.maurya.pro@gmail.com)
+🔗 **Portfolio:** [https://shashank-maurya-portfolio.vercel.app/](https://shashank-maurya-portfolio.vercel.app/)
+🐙 **GitHub:** [https://github.com/shashankdoeshisstuff](https://github.com/shashankdoeshisstuff)
+🔗 **LinkedIn:** [https://linkedin.com/in/shashank-maurya-41a926217](https://linkedin.com/in/shashank-maurya-41a926217)
+📱 **Phone:** +91-9219639278
 
 ---
 
-If you want, I can also:
+If you'd like, I can also provide:
 
-✅ Write a professional email reply for submitting this assignment
-✅ Deploy the project on Vercel and add the live demo link
-✅ Improve the README with screenshots / badges / animations
+✅ A **professional email response** to send back to HR
+✅ A **Vercel deployment** description + updated README
+✅ A **version with screenshots, badges, or GIF previews**
 
 Just tell me!
+
+ScreenShots 
+
