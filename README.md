@@ -149,3 +149,18 @@ Just tell me!
 
 ScreenShots 
 
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-36-35.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-36-40.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-36-46.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-36-50.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-36-54.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-36-57.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-37-01.png
+
+https://github.com/shashankdoeshisstuff/digital-prospects-consulting-home-page/blob/main/public/Screenshot%20From%202025-11-24%2023-37-06.png
