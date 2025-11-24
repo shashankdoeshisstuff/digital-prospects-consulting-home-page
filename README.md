@@ -45,9 +45,8 @@ This project is a **Next.js (App Router)** application built with a focus on:
 * **Next.js (App Router)**
 * **React**
 * **Tailwind CSS**
-* **TypeScript** (if used)
+* **TypeScript**
 * **Next Image Optimization**
-* **Shadcn UI / Radix UI (if applicable)**
 * **Reusable UI Components**
 * **Lucide Icons / Custom Icons**
 
